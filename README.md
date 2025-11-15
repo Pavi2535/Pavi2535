@@ -53,7 +53,7 @@ My goal is to build scalable, production-ready applications while learning and g
 
 ## 📬 How to Reach Me  
 📧 Email: **pavithrasn548@gmail.com**  
-💼 LinkedIn: **www.linkedin.com/in/pavithra-sn **
+💼 LinkedIn: *www.linkedin.com/in/pavithra-sn*
 
 ---
 
