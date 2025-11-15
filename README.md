@@ -48,11 +48,6 @@ My goal is to build scalable, production-ready applications while learning and g
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Pavi2535/docker-k8s-cicd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavi2535&repo=canara-cicd-docker-pipeline&theme=tokyonight" />
-  </a>
-</p>
 
 ---
 
