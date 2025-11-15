@@ -39,19 +39,18 @@ My goal is to build scalable, production-ready applications while learning and g
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavi2535&layout=compact&theme=tokyonight" height="160" />
 </p>
 
----
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavi2535&theme=tokyonight&row=1&no-frame=true" />
-</p>
-
----
 
 ## 📦 Top Repositories  
 <p align="center">
   <a href="https://github.com/Pavi2535/docker-k8s-cicd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavi2535&repo=docker-k8s-cicd&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Pavi2535/docker-k8s-cicd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pavi2535&repo=canara-cicd-docker-pipeline&theme=tokyonight" />
   </a>
 </p>
 
